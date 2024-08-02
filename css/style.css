@@ -314,6 +314,16 @@ button {
     color: var(--text-gray);
 }
 
+.techStack {
+    color: var(--gray-color);
+
+}
+
+.techStack li{
+    color: var(--gray-color);
+    display: inline;
+    margin-left: 70px;
+}
 /* 4.services */
 .services_wrapper .card {
     background-color: var(--bg-dark-blue);
